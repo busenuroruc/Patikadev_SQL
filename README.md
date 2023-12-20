@@ -1,3 +1,2 @@
 # Patikadev_SQL_Homeworks
-Merhaba,
-Bu repository'de Patika.dev'in SQL eğitiminde verilen ödevleri paylaşacağım.
+In this repository, I share the assignments and notes I completed in Patika's PostgreSQL training.
