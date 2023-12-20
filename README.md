@@ -1,0 +1,1 @@
+# Patikadev_SQL_Homeworks
