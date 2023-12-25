@@ -1,0 +1,47 @@
+---------------
+TR
+---------------
+Merhabalar,
+Bu tutorial boyunca declarative bir programlama dili olan SQL (Structered Query Language) üzerinde duracağız.
+----------------
+İÇERİK BİLGİSİ:
+1. SQL Nedir? 
+   SQL tanımıyla birlikte veri, veritabanı ve veritabanı yönetim sistemi kavramlarını görüp veritabanı yönetim sistemi olarak son dönemlerin en popüler
+   yazılımı POSTGRESQL kullanıp bilgisayarımıza yükleyeceğiz.
+2. SQL TEMELLERİ I
+   SELECT, COUNT, WHERE, BETWEEN, IN, LIKE, ILIKE, DISTINCT kavramlarını öğrenip karşılaştırma ve mantıksal operatörlerden bahsedip PSQL terminali
+   üzerinde duracağız.
+3. SQL TEMELLERİ II
+   ORDER BY, LIMIT, OFFSET, GROUP BY, HAVING, ALIAS keyword'lerini öğrenip aggregate fonksiyonlarını konuşacağız.
+4. TABLOLARLA ÇALIŞMAK
+   Temel tablo yapısına, temel veri tiplerine bakacağız. Tablolar nasıl oluşturulur, tabloların birbirleriyle olan ilişkilerinden bahsedeceğiz. Primary Key,
+   Foreign Key nedir sorularına cevap arayıp Constraint(Kısıtlama) kavramını örneklerle pekiştireceğiz.
+5. JOIN
+   Birden fazla tablolar üzerinde sıklıkla kullanılan JOIN birleştirme işlemlerine bakacağız. Temel JOIN işlemleri olan "INNER, LEFT, RIGHT, FULL JOIN"
+   kavramlarına değineceğiz. Ayrıca farklı SQL sorgularını birleştirmede kullanılan UNION, INTERSECT, EXCEPT operatörlerinden bahsedeceğiz.
+6. SUB QUERIES (ALT SORGULAR)
+   Alt sorgular kavramlarından ve SQL'de sık kullanılan Matematik ve String fonksiyonlarından konuşacağız.
+
+-----------------
+EN
+-----------------
+Hello,
+Throughout this tutorial, we will focus on SQL (Structered Query Language), which is a declarative programming language.
+----------------
+CONTENT KNOWLEDGE:
+1. What is SQL?
+   With the definition of SQL, we see the concepts of data, database and database management system and it is one of the most popular database management systems of recent times.
+   We will use POSTGRESQL and install the software on our computer.
+2. SQL BASICS I
+   Learn the concepts of SELECT, COUNT, WHERE, BETWEEN, IN, LIKE, ILIKE, DISTINCT, talk about comparison and logical operators, and use PSQL terminal
+   We will focus on it.
+3. SQL BASICS II
+   We will learn ORDER BY, LIMIT, OFFSET, GROUP BY, HAVING, ALIAS keywords and talk about aggregate functions.
+4. WORKING WITH TABLES
+   We will look at the basic table structure and basic data types. We will talk about how tables are created and their relationships with each other. Primary Key,
+   We will seek answers to the questions of what is a Foreign Key and reinforce the concept of Constraint with examples.
+5. JOIN
+   We will look at JOIN operations, which are frequently used on multiple tables. Basic JOIN operations "INNER, LEFT, RIGHT, FULL JOIN"
+   We will touch upon the concepts. We will also talk about UNION, INTERSECT, EXCEPT operators used to combine different SQL queries.
+6. SUB QUERIES
+   We will talk about the concepts of subqueries and Math and String functions commonly used in SQL.
